@@ -1,0 +1,35 @@
+[
+ {
+  "pid": 10586081,
+  "sku": "3493",
+  "files": [
+   "dux-energy-gel-cafeina-jabuticaba-01.jpg",
+   "dux-energy-gel-cafeina-jabuticaba-02.jpg"
+  ]
+ },
+ {
+  "pid": 10586081,
+  "sku": "3494",
+  "files": [
+   "dux-energy-gel-cafeina-caramelo-01.jpg",
+   "dux-energy-gel-cafeina-caramelo-02.jpg"
+  ]
+ },
+ {
+  "pid": 10587333,
+  "sku": "6381",
+  "files": [
+   "optimum-whey-gourmet-900g-chocolate-branco-01.jpg",
+   "optimum-whey-gourmet-900g-chocolate-branco-02.jpg"
+  ]
+ },
+ {
+  "pid": 9731069,
+  "sku": "5733",
+  "files": [
+   "dux-whey-concentrado-party-900g-brigadeiro-pistache-01.jpg",
+   "dux-whey-concentrado-party-900g-brigadeiro-pistache-02.jpg",
+   "dux-whey-concentrado-party-900g-brigadeiro-pistache-03.jpg"
+  ]
+ }
+]
